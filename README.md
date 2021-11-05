@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# randomwordsflutter
-random words flutter
-=======
 # first_flutter
 
 A new Flutter project.
